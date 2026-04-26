@@ -71,8 +71,8 @@ https://www.kaggle.com/datasets/isaikumar/creditcardfraud
 
 ### 📈 Model Performance
 
-* Recall: 80.6%
-* Precision: 94.0%
+* Recall: 81.63%
+* Precision: 90.90%
 
 ---
 
